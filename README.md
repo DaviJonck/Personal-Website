@@ -3,7 +3,7 @@
 Este projeto serve basicamente como objeto de estudo.
 Tem diversos problemas de sintaxe e configuração!
 
-ResultadoÇ 
+Resultado:
 
 ![image](https://user-images.githubusercontent.com/17154364/161740430-23bc934e-4176-4a19-84ca-98f680e5c285.png)
 
